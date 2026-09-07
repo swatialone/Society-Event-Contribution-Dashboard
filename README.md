@@ -13,3 +13,6 @@ An interactive Power BI dashboard designed to analyze society event collection m
 - **Power BI Desktop**
 - Data Modeling & DAX Measures
 - Visual Design & Interactive Filtering
+
+- > **Note on Data Privacy:**
+  > To protect client confidentiality and sensitive information, the original dataset (Excel source file) has been excluded from this repository.
